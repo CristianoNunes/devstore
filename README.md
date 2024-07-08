@@ -2,7 +2,7 @@
 
 ## Link Vercel
 
--https://devstore-klns0juad-cristianonunes-projects.vercel.app/
+- https://devstore-klns0juad-cristianonunes-projects.vercel.app/
 
 ## Technologies Used
 
